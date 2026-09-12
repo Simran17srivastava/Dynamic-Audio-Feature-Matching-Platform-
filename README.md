@@ -1,4 +1,4 @@
-# Music Recommender System
+# Dynamic-Audio-Feature-Matching-Platform
 
 A hybrid music recommendation system combining collaborative filtering and content-based K-Nearest Neighbors (KNN) models, deployed as a scalable service on AWS EC2 using Docker and FastAPI.
 
@@ -37,8 +37,8 @@ To run the project locally, follow these steps:
 ### Clone the repository
 
 ```bash
-git clone https://github.com/SwetankShandilya/Music-Recommender-System.git
-cd Music-Recommender-System
+git clone https://github.com/Simran17srivastava/Dynamic-Audio-Feature-Matching-Platform-.git
+cd Dynamic-Audio-Feature-Matching-Platform-
 ```
 
 Install Dependencies
